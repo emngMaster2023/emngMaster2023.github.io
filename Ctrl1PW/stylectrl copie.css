@@ -1,0 +1,20 @@
+header {
+    color:#0066cc
+}
+footer {
+    color: coral;
+}
+body {
+    background-color: hotpink;    
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    padding: 20px;
+}
+@media screen  (max-width: 600px) {
+    header
+    body
+    p
+    footer
+}
