@@ -1,0 +1,20 @@
+<DOCTYPE! html>
+    <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>TITRE</title>
+        </head>
+        <body>
+            <h1>SOUS TITRE</h1>
+            <td><img src="img/DALL·E 2023-03-17 19.13.05 -  a mixed brown baby with almond eyes  walking by the sur with a fox and a blossoming cherry tree digital art.png" alt="petit dhomme in real life with a fox" heigth="200" width="200"></td>
+            <p>PARAGRAPHE</p>
+            <p>PARAGRAPHE</p>
+            <p>PARAGRAPHE</p>
+            <ol>
+                <li>LISTE</li>
+                <li>LISTE</li>
+                <li>LISTE</li>
+            </ol>
+        </body>
+
+    </html>

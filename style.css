@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+}
+
+h1 {
+    color: #0066cc;
+}
+
+p {
+    color:navy;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center; 
+}
+.box {
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid black;
+    width: 50%;
+}
+
+Texte : color, font-family, font-size, text-align, etc.
+Boîte : margin, padding, border, width, height.
+Positionnement : position, top, right, bottom, left, float, display.
+Arrière-plan : background-color, background-image, background-position.
